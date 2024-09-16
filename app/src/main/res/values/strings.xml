@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bluetooth App</string>
+    <string name="instruction_text">Press \'Scan for Devices\' to scan for nearby Bluetooth devices.</string>
+    <string name="scan_button_text">Scan for Devices</string>
+    <string name="stop_scan_button_text">Stop Scan</string>
+    <string name="disconnect_button_text">Disconnect</string>
+    <string name="send_data_button_text">Send Data</string>
+    <string name="receive_data_button_text">Receive Data</string>
+    <string name="not_connected_text">Not Connected</string>
+    <string name="connection_status_description">Shows the current connection status.</string>
+    <string name="instruction_description">Instruction to scan for Bluetooth devices.</string>
+    <string name="scan_button_description">Button to start scanning for Bluetooth devices</string>
+    <string name="stop_scan_button_description">Button to stop scanning for Bluetooth devices</string>
+    <string name="disconnect_button_description">Button to disconnect from Bluetooth device</string>
+    <string name="send_data_button_description">Button to send data to Bluetooth device</string>
+    <string name="receive_data_button_description">Button to receive data from Bluetooth device</string>
+</resources>
